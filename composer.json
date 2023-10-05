@@ -1,0 +1,15 @@
+{
+    "name": "moham/auction_system",
+    "description": "Auction System",
+    "autoload": {
+        "psr-4": {
+            
+        }
+    },
+    "authors": [
+        {
+            "name": "M0M0_Nasr"
+        }
+    ],
+    "require": {}
+}
